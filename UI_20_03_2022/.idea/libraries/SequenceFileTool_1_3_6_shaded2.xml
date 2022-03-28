@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SequenceFileTool-1.3.6-shaded2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Download/SequenceFileTool-1.3.6-shaded.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Download/SequenceFileTool-1.3.6-shaded.jar!/" />
+    </SOURCES>
+  </library>
+</component>
